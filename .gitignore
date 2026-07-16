@@ -1,0 +1,5 @@
+image.svg
+paasword.txt
+*.log
+node_modules/
+!3.log
